@@ -2080,8 +2080,8 @@ input, select, textarea {
 		display: inline-block;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
-		font-weight: 900;
-		letter-spacing: 0.075em;
+		font-weight: 850;
+		letter-spacing: 0.065em;
 		height: 3rem;
 		line-height: 3rem;
 		padding: 0 2rem;
@@ -2096,7 +2096,7 @@ input, select, textarea {
 		input[type="button"].icon:before,
 		button.icon:before,
 		.button.icon:before {
-			margin-right: 0.5rem;
+			margin-right: 0.4rem;
 		}
 
 		input[type="submit"].icon.solo,
@@ -2105,7 +2105,7 @@ input, select, textarea {
 		button.icon.solo,
 		.button.icon.solo {
 			position: relative;
-			width: 4rem;
+			width: 3.5rem;
 			height: 4rem;
 			line-height: 4rem;
 			border-radius: 4rem;
